@@ -18,4 +18,4 @@
 
 - O código foi feito e pensado para ser utilizado no [Google Colab](https://colab.research.google.com/) em conjunto com o [Google Drive](https://drive.google.com/).
 - Os dados devem ser extraido dos lançamentos contábeis no sistema [ERP UAU - Globaltec](https://www.globaltec.com.br/erp-uau/).
-- 
+  
