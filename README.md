@@ -14,6 +14,10 @@
 - Consegue tratar os dados com a opção de selecionar o intervalo de tempo
 - O código consegue considerar o saldo inicial apenas do primeiro ano
 
+## 🎯 Próximas adições
+
+- Baixar mutiplos arquivos automaticamente
+
 ---
 
 ## 🛠️ Requisitos
