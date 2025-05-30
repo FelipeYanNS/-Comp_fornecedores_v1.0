@@ -11,6 +11,8 @@
 - Agrupar dados por fornecedor e nota fiscal.
 - Traz o saldo da conta para conferência (Botão de "Conferência").
 - Gerar automaticamente um arquivo Excel por empresa (Botão "Baixar Arquivo").
+- Consegue tratar os dados com a opção de selecionar o intervalo de tempo
+- O código consegue considerar o saldo inicial apenas do primeiro ano
 
 ---
 
